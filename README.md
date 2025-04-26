@@ -19,6 +19,6 @@ For the practical implementation, I used the 20 Newsgroups dataset, which contai
 
 ## Table of Contents
 *   [Code implementation](Code_implementation/Document_Classification.ipynb)
-*   [Dataset Used)](Dataset/20_newsgroups.tar.gz)
+*   [Dataset Used](Dataset/20_newsgroups.tar.gz)
 *   [Presentation slides](Presentation/Introduction_to_Document_Classification.pptx)
 *   [Video Presentation](Presentation/Introduction_to_Document_Classification_(Video_Presentation).mp4)
