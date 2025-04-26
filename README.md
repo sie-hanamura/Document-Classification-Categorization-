@@ -18,7 +18,7 @@ Document classification is a fundamental task in Natural Language Processing (NL
 For the practical implementation, I used the 20 Newsgroups dataset, which contains documents from 20 different online discussion topics. I began by preprocessing the text, removing stopwords and punctuation to clean the data. I then transformed the documents into numerical features using TF-IDF vectorization, capturing the importance of each word relative to each document. A Multinomial Naive Bayes classifier was trained on the processed data, chosen for its simplicity and effectiveness in text-based tasks. After training, the model achieved approximately 67% accuracy on the test data. Evaluation was performed using a classification report and a confusion matrix, helping identify where the model performed well and where improvements could be made, especially in classes with overlapping vocabulary.
 
 ## Table of Contents
-*   [Code implementation](Code%20implementation/Document%20Classification.ipynb)
+*   [Code implementation](Code_Implementation/Document_Classification.ipynb)
 *   [Dataset Used](Dataset/20_newsgroups.tar.gz)
-*   [Presentation slides](Presentation/Introduction%20to%20Document%20Classification.pptx)
-*   [Video Presentation](Presentation/Introduction%20to%20Document%20Classification%20(Video_Presentation).mp4)
+*   [Presentation slides](Presentation/Introduction_to_Document_Classification.pptx)
+*   [Video Presentation](Presentation/Introduction_to_Document_Classification_(Video_Presentation).mp4)
